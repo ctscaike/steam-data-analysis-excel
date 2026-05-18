@@ -60,6 +60,8 @@ Criação de métricas, tabelas dinâmicas e exploração dos dados.
 
 Visualização gráfica dos principais indicadores encontrados durante a análise.
 
+![Dashboard](images/dashboard.png)
+
 ---
 
 ## 🔍 Perguntas Analisadas
